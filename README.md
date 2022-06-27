@@ -6,6 +6,7 @@ MySQL database handling python 코드 정리 레포지토리
 
 - Coursera lecture <br>
 Bancos de dados e SQL para Ciência de Dados - IBM <br>
+https://www.coursera.org/learn/sql-data-science-pt
 
 - mcdonald dataset <br>
 https://www.kaggle.com/datasets/mcdonalds/nutrition-facts?resource=download
