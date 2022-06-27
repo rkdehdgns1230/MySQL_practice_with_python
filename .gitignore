@@ -1,1 +1,3 @@
 info.yaml
+# 폴더 전체를 ignore
+.ipynb_checkpoints/
