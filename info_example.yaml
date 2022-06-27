@@ -1,0 +1,6 @@
+metadata:
+  host: 'your_host_info'
+  port: 0
+  user: 'your_user_info'
+  passwd: 'your_passwd'
+  db: 'your_db_info'
